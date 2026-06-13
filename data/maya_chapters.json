@@ -1,0 +1,138 @@
+{
+  "character": "Maya",
+  "condition": "ADHD",
+  "misconception": "She's lazy and doesn't try",
+  "color": "#F5821F",
+  "emoji": "🌈",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Lost Homework",
+      "intro": "Maya comes into class and can't find her homework in her bag. She searches and searches, getting flustered. The teacher asks everyone to pass their work forward.",
+      "question": "What do you do?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Roll your eyes — she always does this",
+          "points": 0,
+          "verdict": "WRONG",
+          "outcome": "Maya catches your eye roll. She already feels terrible — now she feels judged too. She gives up looking."
+        },
+        {
+          "label": "B",
+          "text": "Whisper 'just say the printer broke'",
+          "points": 1,
+          "verdict": "WRONG",
+          "outcome": "Lying might help today, but it teaches Maya to hide instead of asking for support. The real problem doesn't go away."
+        },
+        {
+          "label": "C",
+          "text": "Look away so she doesn't feel watched",
+          "points": 2,
+          "verdict": "OK",
+          "outcome": "You give Maya space. She's still flustered, but at least she doesn't have an audience."
+        },
+        {
+          "label": "D",
+          "text": "Quietly say 'don't worry, just tell her you'll bring it tomorrow'",
+          "points": 3,
+          "verdict": "BEST",
+          "outcome": "Maya takes a breath. She tells the teacher honestly. The world doesn't end. She remembers your kindness all day."
+        }
+      ],
+      "facts": [
+        "ADHD affects the brain's ability to organize and manage time. Losing things isn't carelessness — it's a symptom."
+      ],
+      "reflection": "Think of something you find really hard to remember. What helps you?",
+      "badge": "Kind Observer",
+      "myth": "She loses things because she doesn't care",
+      "reality": "ADHD affects the brain's organization system — losing things is a symptom, not laziness"
+    },
+    {
+      "number": 2,
+      "title": "Zoning Out",
+      "intro": "During the teacher's lesson, you notice Maya staring at the window. She clearly hasn't heard the last instructions. The teacher calls on her.",
+      "question": "What do you do?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Smirk — this is going to be funny",
+          "points": 0,
+          "verdict": "WRONG",
+          "outcome": "Maya freezes. She doesn't know the answer. Her face burns red. Your smirk just made it ten times worse."
+        },
+        {
+          "label": "B",
+          "text": "Quickly whisper the answer to her",
+          "points": 3,
+          "verdict": "BEST",
+          "outcome": "Maya gives the answer. The lesson moves on. She shoots you a grateful look — you just saved her from a really hard moment."
+        },
+        {
+          "label": "C",
+          "text": "Nudge her — she should be paying attention",
+          "points": 1,
+          "verdict": "WRONG",
+          "outcome": "She jumps, surprised. Everyone notices. Now the whole class is looking at her, and she still doesn't know the answer."
+        },
+        {
+          "label": "D",
+          "text": "Nothing — she needs to learn to listen",
+          "points": 0,
+          "verdict": "WRONG",
+          "outcome": "Maya freezes. The silence stretches. Listening isn't the problem — her brain just works differently."
+        }
+      ],
+      "facts": [
+        "ADHD makes sustained attention very difficult, especially for tasks that aren't immediately stimulating. This is not a choice."
+      ],
+      "reflection": "Have you ever 'zoned out' during a long lesson? What pulled you back?",
+      "badge": "Lunch Hero",
+      "myth": "She zones out because she chooses not to listen",
+      "reality": "ADHD makes sustained attention genuinely difficult — the effort is invisible but real"
+    },
+    {
+      "number": 3,
+      "title": "Blurting Out",
+      "intro": "During a class discussion, Maya shouts out an answer before the teacher finishes the question. Some kids groan. The teacher asks students to raise hands.",
+      "question": "What do you do?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Groan too — it's so annoying",
+          "points": 0,
+          "verdict": "WRONG",
+          "outcome": "Maya hears the groans. She gets quiet for the rest of the class. She had good ideas she'll never share."
+        },
+        {
+          "label": "B",
+          "text": "Give her a look like 'what are you doing'",
+          "points": 0,
+          "verdict": "WRONG",
+          "outcome": "Your look tells her she doesn't belong in this conversation. She starts to believe it."
+        },
+        {
+          "label": "C",
+          "text": "Raise your hand to continue the discussion normally",
+          "points": 3,
+          "verdict": "BEST",
+          "outcome": "You move the lesson forward. Maya isn't singled out. The class keeps going, and so does she."
+        },
+        {
+          "label": "D",
+          "text": "Defend her loudly: 'Leave her alone everyone'",
+          "points": 1,
+          "verdict": "WRONG",
+          "outcome": "Now everyone is focused on Maya — for being defended. She's the center of attention again, which is exactly what she didn't want."
+        }
+      ],
+      "facts": [
+        "Impulsivity — speaking before thinking — is one of the core symptoms of ADHD. It is not rudeness."
+      ],
+      "reflection": "Have you ever said something before you finished thinking? What did you wish people did next?",
+      "badge": "Team Player",
+      "myth": "She blurts out answers because she's rude",
+      "reality": "Impulsivity is a core ADHD symptom — her brain acts before the 'wait' signal arrives"
+    }
+  ]
+}
